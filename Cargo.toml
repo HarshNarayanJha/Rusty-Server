@@ -1,0 +1,8 @@
+[package]
+name = "rusty_server"
+authors = ["Harsh Narayan Jha"]
+description = "A bare bones web server written in rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
